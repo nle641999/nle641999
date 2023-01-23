@@ -7,7 +7,7 @@ Junior Software Developer
 I picked up coding at a young age when I found out that you can change text using Chrome's "Inspect Element" function, and from there I became interested in just how our webpages work. Eventually, I tried coding a bit with Python, and after a few weeks I had plopped myself into an edX coding bootcamp! Working on project after project while also learning a new language each week, I came to realize that the process of coding is not that easy. However, it has been super rewarding to see the fruits of my labor at the end of the road. BurnWhisper is perhaps my most meaningful project, as it is one of the projects where I worked on a lot of the javascript. Figuring how to get everything to work together was frustrating and difficult, but it felt amazing to finish and see it operate. Now, I hope to learn some more languages and to hone my craft in an internship!
 
 * 🌍  I'm based in Tacoma, WA
-* 🖥️  See my portfolio at [HERE](http://nle641999.github.io/Nicholas-Portfolio/)
+* 🖥️  See my portfolio at [HERE](https://nle641999.github.io/Le-Portfolio/)
 * ✉️  You can contact me at [nleb641999@gmail.com](mailto:nleb641999@gmail.com)
 * 🧠  I'm learning the MERN Stack and Python
 
